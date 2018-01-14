@@ -28,7 +28,7 @@ spec:
       name: weather-geo
     spec:
       containers:
-      - image: {{image}}
+      - image: {{.Values.image.repository}}
         imagePullPolicy: IfNotPresent
         name: weather-geo
         ports:
