@@ -1,0 +1,13 @@
+name: arcus_weather_geo
+version: 0.0.1
+description: Chart for arcus assignment
+keywords:
+- arcus
+- ui
+home: https://github.com/siavashghf2000
+sources:
+- https://github.com/siavashghf2000/arcus-weather-geo
+maintainers:
+- name: Sia Fard
+  email: sia.gfard@gmail.com
+engine: gotpl
